@@ -1,0 +1,28 @@
+# Change these first
+owner: sys41x4 # Your GitHub organization or username, where this repository lives
+repo: upptime-tracker # The name of this repository
+
+sites:
+  - name: Arijit Bhowmick Personal Website
+    url: https://arijit-bhowmick.github.io
+  - name: sys41x4
+    url: https://sys41x4.github.io
+  - name: Brute OS
+    url: https://brute-os.github.io
+  - name: Dart OS
+    url: https://dart-os.github.io
+
+status-website:
+  # Add your custom domain name, or remove the `cname` line if you don't have a domain
+  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
+  # cname: status.arijit-bhowmick.me
+  baseUrl: /uptime
+  logoUrl: http://arijit-bhowmick.github.io/static/img/favicon/favicon-32x32.png
+  name: SITES-UPTIME
+  introTitle: "Uptime Tracks for connected sites and applications"
+  introMessage: These are the connected endpoints, websites and applications along this domain
+  navbar:
+    - title: Status
+      href: /
+    - title: GitHub
+      href: https://github.com/$OWNER/$REPO
