@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 246,
-    "timeDay": 507,
-    "timeWeek": 260,
+    "timeDay": 240,
+    "timeWeek": 276,
     "timeMonth": 246,
     "timeYear": 246,
     "dailyMinutesDown": {}
@@ -23,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/sys41x4.github.io.ico",
     "slug": "sys41x4",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 186,
-    "timeDay": 395,
-    "timeWeek": 230,
-    "timeMonth": 186,
-    "timeYear": 186,
-    "dailyMinutesDown": {
-      "2024-02-06": 8
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 184,
+    "timeDay": 240,
+    "timeWeek": 233,
+    "timeMonth": 184,
+    "timeYear": 184,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Brute OS",
@@ -43,19 +41,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/brute-os.github.io.ico",
     "slug": "brute-os",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 194,
-    "timeDay": 322,
-    "timeWeek": 214,
-    "timeMonth": 194,
-    "timeYear": 194,
-    "dailyMinutesDown": {
-      "2024-02-06": 8
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 192,
+    "timeDay": 235,
+    "timeWeek": 218,
+    "timeMonth": 192,
+    "timeYear": 192,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Dart OS",
@@ -63,18 +59,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/dart-os.github.io.ico",
     "slug": "dart-os",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 177,
-    "timeDay": 348,
-    "timeWeek": 185,
-    "timeMonth": 177,
-    "timeYear": 177,
-    "dailyMinutesDown": {
-      "2024-02-06": 8
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 176,
+    "timeDay": 248,
+    "timeWeek": 193,
+    "timeMonth": 176,
+    "timeYear": 176,
+    "dailyMinutesDown": {}
   }
 ]
